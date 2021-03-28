@@ -1,0 +1,31 @@
+{
+  "name": "chatroom-server",
+  "version": "1.0.0",
+  "description": "Chatroom server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5GameMaker/chatroom-server.git"
+  },
+  "keywords": [
+    "chat",
+    "chatroom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5GameMaker/chatroom-server/issues"
+  },
+  "homepage": "https://github.com/5GameMaker/chatroom-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/express-ws": "^3.0.0"
+  }
+}
